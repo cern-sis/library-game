@@ -78,7 +78,7 @@ function App() {
       return;
     }
 
-    if (step === 0 || step === 2) {
+    if (step === 0) {
       setStep(1);
       setX(input);
     } else if (step === 1) {
