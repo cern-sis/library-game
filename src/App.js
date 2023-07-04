@@ -53,7 +53,7 @@ function App() {
       return;
     }
     try {
-      return 900 + xNumber - yNumber;
+      return 9000 + xNumber - yNumber;
     } catch (e) {
       console.log("error", e);
       showError(true);
