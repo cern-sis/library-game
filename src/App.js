@@ -121,7 +121,7 @@ function App() {
         </TerminalOutput>
         <TerminalOutput></TerminalOutput>
         <TerminalOutput>
-          The following example commands are provided:
+          The following commands are provided:
         </TerminalOutput>
         <TerminalOutput>- 'clear' - clear the terminal.</TerminalOutput>
         <TerminalOutput>- 'help' - display a help message.</TerminalOutput>
